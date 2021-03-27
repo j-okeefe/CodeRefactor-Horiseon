@@ -9,7 +9,7 @@ The site can be accessed [here](https://j-okeefe.github.io/CodeRefactor-Horiseon
 
 ## Screenshot
 
-![Screenshot](https://github.com/j-okeefe/CodeRefactor-Horiseon/blob/main/assets/images/screenshot.jpeg)
+![Screenshot](./assets/images/screenshot.jpeg)
 
 ## Tools used
 * [GitHub](https://github.com/) - Code repository and page hosting via GitHub Pages
